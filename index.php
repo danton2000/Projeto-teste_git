@@ -21,7 +21,7 @@
 <!DOCTYPE php>
 <html lang="pt-br">
 <head>
-  <title>Cadastro de produtos</title>
+  <title>Cadastro</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -34,7 +34,7 @@
 	<div class="container">
 		<div class="row pt-4">
 		   <div class="col-sm-12 col-md-6 col-lg-6">
-				<h2>Lista de produtos</h2>			
+				<h2>Lista</h2>			
 		   </div>
 		   <div class="col-sm-12 col-md-6 col-lg-6 text-right">
 				<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#myModal">Cadastro de produtos</button>
